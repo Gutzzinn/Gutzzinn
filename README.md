@@ -16,24 +16,20 @@
   <img src="https://github.com/Gutzzinn/Gutzzinn/blob/main/ICONS/INT.webp?raw=true" width="40px" height="40px">
 </div>
 <div height="20px">&nbsp;&nbsp;</div>
+
+
+<div align="center">
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=Gutzzinn&color=000000&theme=dark&mode=mono&preset=githubred&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=Gutzzinn&color=000000&theme=light&mode=mono&preset=githubred&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=Gutzzinn&color=000000&theme=light&mode=mono&preset=githubred&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
+  </picture>
+</a>
+</div>
+
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=gutzzinn&label=Visitors&color=b22222"
   />
 </p>
-
-
-<!--
-**Gutzzinn/Gutzzinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
