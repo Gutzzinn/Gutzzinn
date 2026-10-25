@@ -1,4 +1,11 @@
-## Hi there 👋
+## Olá, sou Guska!
+
+<div>
+  <img source="https://github.com/Gutzzinn/Gutzzinn/blob/main/ICONS/C%23.png?raw=true">
+</div>
+
+
+
 
 <!--
 **Gutzzinn/Gutzzinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
